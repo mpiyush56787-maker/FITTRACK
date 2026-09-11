@@ -1,0 +1,6 @@
+{
+  "name": "FITTRACK - Premium Gym & Fitness Tracking",
+  "description": "Premium full-stack fitness and nutrition app with calorie tracking, Indian food database, workout logger, PR detection, progressive overload, and customized plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
